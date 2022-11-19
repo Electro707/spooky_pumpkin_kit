@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MyBattery")(type "KiCad")(uri "/run/media/electro/8689-00B8/Kicad/Parts/Footprints/MyBattery.pretty")(options "")(descr ""))
+)

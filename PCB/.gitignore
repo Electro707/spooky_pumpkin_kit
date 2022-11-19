@@ -1,0 +1,19 @@
+# Generated Folders
+SVG-Blender
+SVG
+Gerber
+
+# Generated Files
+*.wrl
+*.step
+*.ipt
+*.emn
+*.svg
+*.png
+
+# Backup Files
+*.kicad_pcb-bak
+*.sch-bak
+PCB-rescue.*
+PCB-cache.*
+PCB-backups
